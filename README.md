@@ -130,8 +130,10 @@ You can deploy this project using: It is not completed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
+## Contributions
 
 Contributions, issues, and feature requests are welcome!
+
 
 Feel free to check the [issues page](../../issues/).
 
