@@ -68,9 +68,7 @@ Hello , This is a HTML AND CSS simple project.</a>
 
 ### Tech Stack 
 HTML
-CASS
-
-<!-- Features -->
+CSS
 
 ### Key Features 
 
@@ -121,7 +119,9 @@ You can deploy this project using: It is not completed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- FUTURE FEATURES -->
+## Future Features
 
 - [ ] **[Navbar]**
 - [ ] **[Footer]**
